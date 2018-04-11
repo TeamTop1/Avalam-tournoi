@@ -1,20 +1,21 @@
 screenshot 1 : 
-Il y a 5 piles, une pile de 2 e le reste des piles de 1.
+	Il y a 5 piles, une pile de 2 et le reste des piles de 1.
 A vue d'oeil avantage rouge(3 rouge dont la pile de 2 
 et seulement 2 jaunes), cependant en jouant le 42->38 
 il fait une nouvelle pile de deux cette fois çi de 
-couleur jaune. En faisant il force il reprend 
+couleur jaune. En faisant cela il reprend 
 l'avantage car c'est au rouge de jouer mais il 
 n'ya aucune possibilté de faire des piles de 5 ce 
 tour(il y a 2 piles de 2 et 2 piles de 1). Il est 
 forcé à sacrifier une pile.
-	Créer une pile de 2 jaune était le meilleur 
-plan car le rouge n'a aucune possibilité de marquer 
+	Créer une pile de 2 jaune était un bon plan
+car le rouge n'a aucune possibilité de marquer 
 un point lors de son tour, il doit donc jouer en 
-fonction du tour jaune suivant ce qui donne donc 
+fonction du tour jaune suivant ce qui donne alors 
 l'avantage au jaune.
 	
 	Autre stratégie : jouer le 42->37 por créer 
 une pile de 3 jaune, étant entouré que de 3 piles de 
 1 dont 2 rouges il obtient le même résultat que pour 
 la stratégie précédente.
+--------------------------------------------------------------------
