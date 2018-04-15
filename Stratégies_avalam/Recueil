@@ -1,0 +1,13 @@
+Faire des prioritées dans les conditions, et mettre les conditions les plus importantes devant celles moins importantes.
+
+Condition importante *** : Repérer les tours de 4
+			   Repérer les tours de 3 et 2 côte à côte, si ce sont des tours 				   de sommet adverse, placer un de nos pions sur la tour de 2.
+
+
+Condition * : Isoler ses jetons s'il n'y a rien à faire.
+
+Condition **: Début de la partie, faire des tours  de 2 en plaçant un de nos pions sur  	      un pion adverse.
+
+idée 1: Faire un algo qui joue les même coups que l'adversaire symétriquement avec un de nos pions.
+
+idée 2: Début de partie, faire 2 coups, prendre un de nos pions le placer sur un pion adverse, le coup suivant placer la tour de 2 sur un pion adverse de sorte que la trajectoire forme une équerre (cf: screenshot idée_2, je joue les pions jaunes). Cela doit permettre de créer une tour de 3 de notre couleur autour de pions de notre couleur. Problème: facilement contrable si l'adversaire mets un de ses pions sur la tour 2.
