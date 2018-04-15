@@ -7,7 +7,7 @@ Condition importante *** : Repérer les tours de 4
 
 Condition * : Isoler ses jetons s'il n'y a rien à faire.
 
-Condition **: Début de la partie, faire des tours  de 2 en plaçant un de nos pions sur  	      un pion adverse.
+Condition **: Début de la partie, faire des tours  de 2 en plaçant un de nos pions sur un pion adverse.
 
 idée 1: Faire un algo qui joue les même coups que l'adversaire symétriquement avec un de nos pions.
 
